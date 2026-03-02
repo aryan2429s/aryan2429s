@@ -2,7 +2,7 @@
 I'm a beginner developer learning to code. I love building small projects and learning new things
 
 # 💫 About Me:
-🔭 I’m currently working on Data Policy Agent  <br>👯 I'm a CS student with specialization Artificial Intelligence and Data Science   <br>🌱 I’m currently learning Python ,Oops , JavaScript <br>⚡ Fun fact I'm a artist as well 
+🔭 I’m currently working on myself  <br>👯 I'm a CS student with specialization Artificial Intelligence and Data Science   <br>🌱 I’m currently learning Python ,Oops , JavaScript <br>⚡ Fun fact I'm a artist as well 
 
 
 ## 🌐 Socials:
